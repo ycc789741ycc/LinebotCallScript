@@ -49,10 +49,10 @@ I use [ngrok](https://dashboard.ngrok.com/get-started/setup) to apply for URL.
   screen -r YOUR SCREEN ID
   ```
   
-  ## LINE Webhook  
+## LINE Webhook  
   Go to [LINE's official website](https://developers.line.biz/en/) and LOGIN to create your LINE server,  
   and it is neccessary to go Webhook setting to enable your URL.
   ![Demo pic3](https://github.com/ycc789741ycc/LinebotCallScript/blob/master/pics/Demo3.png "Demo pic3")
   
-  ## End
-  Now you can deploy your script with LineBot, though I omit a lot of detail about my code :joy:
+## End
+   Now you can deploy your script with LineBot, though I omit a lot of detail about my code :joy:
