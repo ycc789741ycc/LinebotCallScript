@@ -1,0 +1,4 @@
+selenium==3.141.0
+scriptlocator==0.0.2
+line-bot-sdk==1.19.0
+Django==3.2.4
